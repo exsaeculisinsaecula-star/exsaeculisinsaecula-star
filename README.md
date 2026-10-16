@@ -33,7 +33,7 @@
 ### 프로젝트 활동명
 - 『ARMA Project』개인 NAS 서버 구축 및 로컬 개발/운영 환경 가상화인프라 및 서버 관리
 - 『청년 피지컬AI 일경험 프로젝트』AI 및 실무 직무 교육 이수 및 프로젝트 수행역량 강화 프로그램
-- 『ASTRA ORACLE』로컬 기반 사진, 메모, 영상, 음악, 네비게이션, 점성술 등 로컬기반 슈퍼앱 제작
+- 『ASTRA ORACLE』 사진, 메모, 영상, 음악, 네비게이션, 점성술 등 로컬 기반 슈퍼앱 제작
 
 ### Languages & Frameworks
 - **OS:** WINDOW , MAC , LINUX ( tails os )
